@@ -1,0 +1,17 @@
+[package]
+name = "gen-tdlib-tl"
+version = "0.1.0"
+authors = [
+"CodWiz <codwiz@yandex.ru>"
+]
+edition = "2024"
+license = "MIT"
+homepage = "https://github.com/Codwizer/tdlib-rs"
+repository = "https://github.com/Codwizer/tdlib-rs"
+documentation = "None"
+description = """
+Rust code generator from TDLib's API definitions.
+"""
+
+[dependencies]
+parser-tdlib-tl = { path = "../parser-tdlib-tl", version = "0.1" }

@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "tdlib",
+  "gen-tdlib-tl",
+  "parser-tdlib-tl",
+]
