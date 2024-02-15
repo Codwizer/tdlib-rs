@@ -1,4 +1,14 @@
-# [tdlib-rs](https://github.com/Codwizer/tdlib-rs) [![language](https://skillicons.dev/icons?i=rust)](https://github.com/Codwizer/tdlib-rs)
+# Project using TDLib in Rust
 
 > [!Note]
 > The project is under development
+
+
+## About
+
+This project is an example of using TDLib (Telegram Database Library) in the Rust programming language
+
+   
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
